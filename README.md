@@ -1,6 +1,5 @@
 <h1 align="center">
-	🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
-</h1>
+	🦉 OneAgent: General Enterprise Task Automation </h1>
 
 
 <div align="center">
